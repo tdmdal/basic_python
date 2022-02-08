@@ -1,0 +1,24 @@
+---
+title: "Data Analysis using Pandas"
+---
+
+* Slides
+    1. [Basic Python_Introduction](1_Basic_Python_Introduction.pdf)
+    2. [Storing Data](2_Storing_Data.pdf)
+    3. [Extracting Elementss](3_Extracting_Elements.pdf)
+    4. [Programming Structures](4_Programming_Structures.pdf)
+    5. [Functions](5_Functions.pdf)
+* Python Notebooks
+    1. Basic Python Practice (<a href="Basics_Python.ipynb" download="Getting_Started_with_Python_Pandas.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/basic_python/blob/master/docs/Basics_Python.ipynb) )
+
+* Other Resources:   
+    1. [Composing Programs](http://composingprograms.com/)
+    2. [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+    3. [Python Style Guide](https://pep8.org/#introduction)
+    4. [Python Data Science Essential Training](https://www.lynda.com/Python-tutorials/Python-Data-Science-Essential-Training/520233-2.html) (login [here](http://main.its.utoronto.ca/news/free-access-to-lynda-com-online-courses/) for UofT free access)
+    5. [Python Standard Library](https://docs.python.org/3/library/)
+    6. [Numpy User Guide](https://www.numpy.org/devdocs/user/index.html)
+    7. [Pandas](http://pandas.pydata.org/pandas-docs/stable/index.html)
+    8. [Introducing Python by TDMDAL F2019](https://tdmdal.github.io/python-workshop/)
+    
+<!-- Back to [TDMDAL Computing Page](https://tdmdal.github.io/) -->
