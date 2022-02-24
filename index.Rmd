@@ -9,9 +9,12 @@ title: "Data Analysis using Pandas"
     4. [Programming Structures](4_Programming_Structures.pdf)
     5. [Functions](5_Functions.pdf)
     6. [NumPy](6_NumPy.pdf)
-    7. [Pandas](5_Pandas.pdf)
+    7. [Pandas](7_Pandas.pdf)
 * Python Notebooks
-    1. Basic Python Practice (<a href="Basics_Python.ipynb" download="Getting_Started_with_Python_Pandas.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/Basic_Python/blob/master/docs/Basics_Python.ipynb) )
+    1. Basic Python Practice (<a href="Basics_Python.ipynb" download="Basic_Python.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/Basic_Python/blob/master/docs/Basics_Python.ipynb) )
+    2. NumPy Practice (<a href="6_NumPy.ipynb" download="6_NumPy.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/Basic_Python/blob/master/docs/6_NumPy.ipynb) )
+    3. Pandas Practice (<a href="Basics_Python.ipynb" download="7_Pandas.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/Basic_Python/blob/master/docs/7_Pandas.ipynb) )
+     4. Pandas Datetime Practice (<a href="Basics_Python.ipynb" download="7_Pandas_DateTime.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/Basic_Python/blob/master/docs/7_Pandas_DateTime.ipynb) )
 
 * Other Resources:   
     1. [Composing Programs](http://composingprograms.com/)
